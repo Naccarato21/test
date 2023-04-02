@@ -1,0 +1,8 @@
+git clone LINK
+git status
+git add .
+git checkout -b TEXT_NAME
+git checkout TEXT_NAME
+git commit -m "text"
+git push -u origin TEXT_NAME
+git config --global core.autocrlf false
